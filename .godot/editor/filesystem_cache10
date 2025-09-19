@@ -1,0 +1,9 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1758320417
+camera.gd::GDScript::5057891026488736629::1758297769::0::1::::<>Camera2D<><>0<>0<><>::
+map.gd::GDScript::943540834350790936::1758314829::0::1::::<>Node2D<><>0<>0<><>::
+province.gd::GDScript::6701735032178629983::1758318815::0::1::::<>Node2D<><>0<>0<><>::
+province_data.json::JSON::-1::1758297906::0::1::::<><><>0<>0<><>::
+SUSEMono-VariableFont_wght.ttf::FontFile::8441528899367168055::1758314763::1758314767::1::::<><><>0<>0<>a331595a9f4490a421dfd05ab581d737<>res://.godot/imported/SUSEMono-VariableFont_wght.ttf-e7015c6f70cf1f4342ee780661e69961.fontdata::
+utility.gd::GDScript::5686885524906950170::1758297769::0::1::::<>RefCounted<><>0<>0<><>::
+window.tscn::PackedScene::5057065569541100322::1758318815::0::1::::<><><>0<>0<><>::uid://npb8krxkhnoq::::res://map.gd<>uid://ceccyxsdrmfxd::::res://camera.gd

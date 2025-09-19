@@ -54,7 +54,7 @@ class Province:
 		area.add_child(collision)
 		area.connect("input_event", func(_viewport, event, _shape_idx):
 			if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
-				self.on_clicked()
+				self.on_click()
 		)
 		self.node.add_child(area)
 	
@@ -69,7 +69,13 @@ class Province:
 			tri.color = self.color
 			tri_border.default_color = Color.TRANSPARENT
 
-	func on_clicked():
+	func on_click():
 		print("Clicked province '%s', Population: %d" % [self.name, self.population])
 		self.parent.selected_province = self
+		var side_panel := self.parent.get_side_panel()
+		var side_panel_vbox: VBoxContainer = side_panel.get_child(1)
+		var province_name_label: Label = side_panel_vbox.get_child(0)
+		province_name_label.text = self.name
+		var province_population_label: Label = side_panel_vbox.get_child(1)
+		province_population_label.text = "%d" % self.population
 		self.parent.update()

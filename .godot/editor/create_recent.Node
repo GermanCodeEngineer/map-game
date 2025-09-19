@@ -1,0 +1,10 @@
+VBoxContainer
+Panel
+RichTextLabel
+Label      - Matches the "text" keyword.
+Node2D
+CanvasLayer
+Camera2D
+Sprite2D
+Control
+HBoxContainer
