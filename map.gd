@@ -25,9 +25,9 @@ class WorldMap:
 		for row in range(self.province_rows):
 			for col in range(self.province_cols):
 				@warning_ignore("integer_division")
-				var x = (col - (self.province_cols/2)) * self.province_size / 2
+				var x = (col - self.province_cols) * self.province_size / 2
 				@warning_ignore("integer_division")
-				var y = (row - (self.province_rows/2)) * (self.province_size * sqrt(3) / 2)
+				var y = (row - self.province_rows) * (self.province_size * sqrt(3) / 2)
 				var pointing_up = (row + col) % 2 == 0
 				var pos = Vector2(x, y)
 				var province_data = provinces_data[len(self.provinces)] 
@@ -35,7 +35,7 @@ class WorldMap:
 					self, row, col, pos, pointing_up,
 					province_data["name"], province_data["population"], Color.html(province_data["color"]),
 				))
-		
+	
 	func setup():
 		for province in self.provinces:
 			province.setup()
@@ -45,7 +45,16 @@ class WorldMap:
 		for province in self.provinces:
 			province.update()
 
+	func get_side_panel() -> Panel:
+		var map_area: Control = self.node.get_parent()
+		var window = map_area.get_parent()
+		var panel_layer = window.get_child(0)
+		var panel_node = panel_layer.get_child(0)
+		return panel_node
+
+var map_instance: WorldMap = null
+
 func _ready():
-	var map = WorldMap.new(self, 12, 12, 100.0)
-	map.generate_provinces()
-	map.setup()
+	map_instance = WorldMap.new(self, 8, 12, 100.0)
+	map_instance.generate_provinces()
+	map_instance.setup()
