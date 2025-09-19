@@ -1,0 +1,55 @@
+[gd_scene load_steps=4 format=3 uid="uid://jmp64mn3d1ro"]
+
+[ext_resource type="Script" uid="uid://npb8krxkhnoq" path="res://map.gd" id="1_mvsta"]
+[ext_resource type="Script" uid="uid://glemhq3k8nn0" path="res://left_right.gd" id="1_nfq5s"]
+[ext_resource type="Script" uid="uid://ceccyxsdrmfxd" path="res://camera.gd" id="2_hjewq"]
+
+[node name="Window" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="LeftRight" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_nfq5s")
+
+[node name="SideBar" type="VBoxContainer" parent="LeftRight"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+
+[node name="Background" type="ColorRect" parent="LeftRight/SideBar"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+color = Color(0.34730473, 0.55899096, 1, 1)
+
+[node name="MapContainer" type="Control" parent="LeftRight"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ViewportContainer" type="SubViewportContainer" parent="LeftRight/MapContainer"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Viewport" type="SubViewport" parent="LeftRight/MapContainer/ViewportContainer"]
+handle_input_locally = false
+render_target_update_mode = 4
+
+[node name="Map" type="Node2D" parent="LeftRight/MapContainer/ViewportContainer/Viewport"]
+position = Vector2(204, 0)
+script = ExtResource("1_mvsta")
+
+[node name="Camera2D" type="Camera2D" parent="LeftRight/MapContainer/ViewportContainer/Viewport/Map"]
+script = ExtResource("2_hjewq")
