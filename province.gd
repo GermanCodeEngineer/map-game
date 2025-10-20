@@ -72,7 +72,7 @@ class Province:
 	# Read-only Properties
 	func realm() -> Realm:
 		for realm in self.map.realms.values():
-			if self in realm.provines:
+			if self in realm.provinces:
 				return realm
 		assert(false, "Province has no realm")
 		return null

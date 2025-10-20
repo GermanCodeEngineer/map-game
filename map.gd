@@ -26,20 +26,30 @@ class WorldMap:
 	func fill_content():
 		var map_data = utility.read_json_file("res://map_data.json")
 		var provinces_data = map_data["provinces"]
-		for row in range(self.province_rows):
-			for col in range(self.province_cols):
-				@warning_ignore("integer_division")
-				var x = (col - self.province_cols) * self.province_size / 2
-				@warning_ignore("integer_division")
-				var y = (row - self.province_rows) * (self.province_size * sqrt(3) / 2)
-				var pointing_up = (row + col) % 2 == 0
-				var pos = Vector2(x, y)
-				var province_data = provinces_data[len(self.provinces)] 
-				self.provinces[province_data["name"]] = Province.new(
-					self, row, col, pos, pointing_up,
-					province_data["name"], province_data["population"], Color.html(province_data["color"]),
-				)
-		print(self.provinces.keys())
+
+		var total_cells = self.province_rows * self.province_cols
+		var cells_to_fill = min(total_cells, provinces_data.size())
+
+		# Fill only as many cells as we have province data for.
+		for data_index in range(cells_to_fill):
+			# derive row/col from the linear data index
+			@warning_ignore("integer_division")
+			var row = data_index / self.province_cols
+			var col = data_index % self.province_cols
+
+			# Center the grid around (0,0). Use half-size horizontally (size/2) which is
+			# the correct horizontal spacing for equilateral-triangle tiling.
+			var x = (col - (self.province_cols - 1) / 2.0) * (self.province_size / 2.0)
+			var y = (row - (self.province_rows - 1) / 2.0) * (self.province_size * sqrt(3) / 2.0)
+
+			var pointing_up = (row + col) % 2 == 0
+			var pos = Vector2(x, y)
+			var province_data = provinces_data[data_index]
+			self.provinces[province_data["name"]] = Province.new(
+				self, row, col, pos, pointing_up,
+				province_data["name"], province_data["population"], Color.html(province_data["color"]),
+			)
+		# print(self.provinces.keys())
 		var realms_data = map_data["realms"]
 		for realm_name in realms_data.keys():
 			# For now, each realm has one province with the same name

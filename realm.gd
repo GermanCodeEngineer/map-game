@@ -1,10 +1,7 @@
 extends Node2D
 
-const utility = preload("res://utility.gd")
 const WorldMap = preload("res://map.gd").WorldMap
 const Province = preload("res://province.gd").Province
-
-const COLOR_SELECTED = Color(1, 1, 1, 1)
 
 class Realm:
 	var map: WorldMap
