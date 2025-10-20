@@ -1,0 +1,1671 @@
+{
+    "provinces": {
+        "Noralmere": {
+            "population": 3957,
+            "color": "#cfcc65"
+        },
+        "Noronheim": {
+            "population": 1432,
+            "color": "#4a9376"
+        },
+        "Silunwick": {
+            "population": 8691,
+            "color": "#7454ed"
+        },
+        "Fendormere": {
+            "population": 2772,
+            "color": "#5ce54d"
+        },
+        "Rivalgorn": {
+            "population": 6623,
+            "color": "#2b0f85"
+        },
+        "Beleldale": {
+            "population": 9027,
+            "color": "#39bfce"
+        },
+        "Belalmere": {
+            "population": 7603,
+            "color": "#eb6a2d"
+        },
+        "Rivorwood": {
+            "population": 2009,
+            "color": "#810293"
+        },
+        "Norirheim": {
+            "population": 7670,
+            "color": "#82d328"
+        },
+        "Elanbay": {
+            "population": 1615,
+            "color": "#75093a"
+        },
+        "Sililheim": {
+            "population": 6087,
+            "color": "#da9332"
+        },
+        "Eloria": {
+            "population": 8197,
+            "color": "#be4a1e"
+        },
+        "Fendelheim": {
+            "population": 9841,
+            "color": "#fbb148"
+        },
+        "Elarmere": {
+            "population": 7909,
+            "color": "#6f4082"
+        },
+        "Belenbay": {
+            "population": 3811,
+            "color": "#a9c09b"
+        },
+        "Thalarpeak": {
+            "population": 3382,
+            "color": "#8c4c5a"
+        },
+        "Thalilbay": {
+            "population": 2225,
+            "color": "#d58e60"
+        },
+        "Norenia": {
+            "population": 7714,
+            "color": "#da4750"
+        },
+        "Fendenhold": {
+            "population": 5577,
+            "color": "#6eb3d7"
+        },
+        "Belonwood": {
+            "population": 5258,
+            "color": "#9abdcc"
+        },
+        "Belunmere": {
+            "population": 7521,
+            "color": "#7f3a6a"
+        },
+        "Fendirwick": {
+            "population": 6866,
+            "color": "#3c5671"
+        },
+        "Noranwick": {
+            "population": 1350,
+            "color": "#37ea53"
+        },
+        "Thalorbay": {
+            "population": 7936,
+            "color": "#08942d"
+        },
+        "Dorungorn": {
+            "population": 9822,
+            "color": "#82f9f7"
+        },
+        "Elelheim": {
+            "population": 6958,
+            "color": "#372517"
+        },
+        "Belonpeak": {
+            "population": 2523,
+            "color": "#eca007"
+        },
+        "Doraria": {
+            "population": 3384,
+            "color": "#566b08"
+        },
+        "Silengorn": {
+            "population": 6656,
+            "color": "#a6a159"
+        },
+        "Silarmere": {
+            "population": 3777,
+            "color": "#b3b282"
+        },
+        "Elanpeak": {
+            "population": 7365,
+            "color": "#b79f5c"
+        },
+        "Thalargorn": {
+            "population": 4982,
+            "color": "#46d493"
+        },
+        "Norirhold": {
+            "population": 4861,
+            "color": "#d519ab"
+        },
+        "Fendirpeak": {
+            "population": 2326,
+            "color": "#30bd91"
+        },
+        "Elenwood": {
+            "population": 4332,
+            "color": "#9bdd91"
+        },
+        "Norondale": {
+            "population": 9693,
+            "color": "#abd472"
+        },
+        "Elandale": {
+            "population": 8531,
+            "color": "#d83e1e"
+        },
+        "Noralwick": {
+            "population": 3147,
+            "color": "#e9b26b"
+        },
+        "Nororbay": {
+            "population": 3918,
+            "color": "#544bfa"
+        },
+        "Dorenbay": {
+            "population": 7487,
+            "color": "#cfe9b9"
+        },
+        "Rivelwick": {
+            "population": 3683,
+            "color": "#29efd0"
+        },
+        "Doranwick": {
+            "population": 7655,
+            "color": "#f19262"
+        },
+        "Dorilbay": {
+            "population": 1279,
+            "color": "#a8985a"
+        },
+        "Elalmere": {
+            "population": 3348,
+            "color": "#b41751"
+        },
+        "Valengorn": {
+            "population": 2333,
+            "color": "#6ca573"
+        },
+        "Elorwick": {
+            "population": 2115,
+            "color": "#b15c8d"
+        },
+        "Elelwick": {
+            "population": 4518,
+            "color": "#115340"
+        },
+        "Doronia": {
+            "population": 1096,
+            "color": "#3c6af6"
+        },
+        "Norargorn": {
+            "population": 3773,
+            "color": "#98875b"
+        },
+        "Thalildale": {
+            "population": 5522,
+            "color": "#ad3f25"
+        },
+        "Noronbay": {
+            "population": 4465,
+            "color": "#ed7cf2"
+        },
+        "Belenia": {
+            "population": 1030,
+            "color": "#2a7e58"
+        },
+        "Norundale": {
+            "population": 3442,
+            "color": "#ed7805"
+        },
+        "Belonhold": {
+            "population": 5578,
+            "color": "#5edc44"
+        },
+        "Marelhold": {
+            "population": 6954,
+            "color": "#d7a6d1"
+        },
+        "Rivelbay": {
+            "population": 7250,
+            "color": "#126a1d"
+        },
+        "Thalirbay": {
+            "population": 7055,
+            "color": "#0c20d7"
+        },
+        "Beloria": {
+            "population": 7845,
+            "color": "#ddd02a"
+        },
+        "Norandale": {
+            "population": 1465,
+            "color": "#7f8abe"
+        },
+        "Maralgorn": {
+            "population": 8399,
+            "color": "#4443f9"
+        },
+        "Siloria": {
+            "population": 5949,
+            "color": "#2edd90"
+        },
+        "Fendalwick": {
+            "population": 7834,
+            "color": "#346d92"
+        },
+        "Elunmere": {
+            "population": 2451,
+            "color": "#751dc0"
+        },
+        "Thalenmere": {
+            "population": 3908,
+            "color": "#cffdaa"
+        },
+        "Thalondale": {
+            "population": 3184,
+            "color": "#c3418e"
+        },
+        "Valildale": {
+            "population": 3639,
+            "color": "#92e26f"
+        },
+        "Valenpeak": {
+            "population": 1707,
+            "color": "#280218"
+        },
+        "Belilgorn": {
+            "population": 5330,
+            "color": "#292a46"
+        },
+        "Elorpeak": {
+            "population": 8311,
+            "color": "#336960"
+        },
+        "Elondale": {
+            "population": 4010,
+            "color": "#0a1663"
+        },
+        "Rivalpeak": {
+            "population": 8715,
+            "color": "#091b3f"
+        },
+        "Thalilia": {
+            "population": 8661,
+            "color": "#becc1e"
+        },
+        "Thalirgorn": {
+            "population": 8058,
+            "color": "#3c5a4e"
+        },
+        "Mararwick": {
+            "population": 4639,
+            "color": "#4f6f33"
+        },
+        "Dorania": {
+            "population": 5505,
+            "color": "#1233c3"
+        },
+        "Marirgorn": {
+            "population": 7597,
+            "color": "#b3484a"
+        },
+        "Valorpeak": {
+            "population": 6311,
+            "color": "#4f33df"
+        },
+        "Fendelwick": {
+            "population": 2007,
+            "color": "#a011be"
+        },
+        "Rivonpeak": {
+            "population": 6107,
+            "color": "#f761c6"
+        },
+        "Norilbay": {
+            "population": 5221,
+            "color": "#6f3f81"
+        },
+        "Dorilwick": {
+            "population": 2482,
+            "color": "#7ad753"
+        },
+        "Silundale": {
+            "population": 4537,
+            "color": "#cf1c4f"
+        },
+        "Rivelia": {
+            "population": 3739,
+            "color": "#ba5a8b"
+        },
+        "Valaria": {
+            "population": 1932,
+            "color": "#51a4e6"
+        },
+        "Doronpeak": {
+            "population": 6138,
+            "color": "#4d2ef5"
+        },
+        "Maralheim": {
+            "population": 6556,
+            "color": "#f14442"
+        },
+        "Fendelgorn": {
+            "population": 8019,
+            "color": "#5ed0f7"
+        },
+        "Valelbay": {
+            "population": 4497,
+            "color": "#afa14f"
+        },
+        "Norirdale": {
+            "population": 3632,
+            "color": "#da7a8b"
+        },
+        "Rivorgorn": {
+            "population": 3810,
+            "color": "#281116"
+        },
+        "Silenia": {
+            "population": 8938,
+            "color": "#b0e717"
+        },
+        "Valardale": {
+            "population": 6765,
+            "color": "#f32244"
+        },
+        "Rivildale": {
+            "population": 4888,
+            "color": "#cf40e7"
+        },
+        "Rivalbay": {
+            "population": 1466,
+            "color": "#e9ea6e"
+        },
+        "Thalelpeak": {
+            "population": 1542,
+            "color": "#0a0618"
+        },
+        "Marirdale": {
+            "population": 3166,
+            "color": "#73c190"
+        },
+        "Valongorn": {
+            "population": 3479,
+            "color": "#89d55d"
+        },
+        "Thalanheim": {
+            "population": 5747,
+            "color": "#58cffd"
+        },
+        "Valargorn": {
+            "population": 7913,
+            "color": "#1227ca"
+        },
+        "Dorondale": {
+            "population": 8284,
+            "color": "#743b3f"
+        },
+        "Thalunheim": {
+            "population": 6332,
+            "color": "#15b8c8"
+        },
+        "Rivunwood": {
+            "population": 1185,
+            "color": "#b59023"
+        },
+        "Valonia": {
+            "population": 8131,
+            "color": "#27a710"
+        },
+        "Riviria": {
+            "population": 9207,
+            "color": "#76136b"
+        },
+        "Elirpeak": {
+            "population": 7234,
+            "color": "#31fd18"
+        },
+        "Norilwick": {
+            "population": 6864,
+            "color": "#465afb"
+        },
+        "Silirwick": {
+            "population": 8042,
+            "color": "#6e7817"
+        },
+        "Noralhold": {
+            "population": 5425,
+            "color": "#d88da7"
+        },
+        "Maralia": {
+            "population": 9618,
+            "color": "#0ada7e"
+        },
+        "Valanpeak": {
+            "population": 4974,
+            "color": "#752dc4"
+        },
+        "Elelpeak": {
+            "population": 7246,
+            "color": "#45589b"
+        },
+        "Thalarhold": {
+            "population": 8121,
+            "color": "#5dc4cc"
+        },
+        "Silelwood": {
+            "population": 7006,
+            "color": "#5bbd10"
+        },
+        "Norordale": {
+            "population": 6425,
+            "color": "#40343a"
+        },
+        "Silonwick": {
+            "population": 1479,
+            "color": "#bff456"
+        },
+        "Fendonheim": {
+            "population": 4970,
+            "color": "#352d60"
+        },
+        "Rivungorn": {
+            "population": 6072,
+            "color": "#311a2e"
+        },
+        "Belenwood": {
+            "population": 4700,
+            "color": "#35daf1"
+        },
+        "Dororheim": {
+            "population": 9242,
+            "color": "#e91d80"
+        },
+        "Marundale": {
+            "population": 8294,
+            "color": "#f3907e"
+        },
+        "Sililwood": {
+            "population": 9271,
+            "color": "#b38354"
+        },
+        "Valirmere": {
+            "population": 1302,
+            "color": "#2115fa"
+        },
+        "Fendondale": {
+            "population": 2767,
+            "color": "#8987b1"
+        },
+        "Marorpeak": {
+            "population": 6335,
+            "color": "#a568ca"
+        },
+        "Belelpeak": {
+            "population": 5608,
+            "color": "#a63696"
+        },
+        "Norilia": {
+            "population": 9341,
+            "color": "#f22107"
+        },
+        "Doralheim": {
+            "population": 5445,
+            "color": "#6438b0"
+        },
+        "Fendunwood": {
+            "population": 6326,
+            "color": "#917c87"
+        },
+        "Fendunhold": {
+            "population": 9748,
+            "color": "#36be92"
+        },
+        "Rivonwood": {
+            "population": 2748,
+            "color": "#7f7592"
+        },
+        "Dororbay": {
+            "population": 6293,
+            "color": "#d382ec"
+        },
+        "Marangorn": {
+            "population": 7948,
+            "color": "#704cc8"
+        },
+        "Mariria": {
+            "population": 9468,
+            "color": "#0d9c08"
+        },
+        "Marandale": {
+            "population": 1381,
+            "color": "#f6b0c1"
+        },
+        "Silalpeak": {
+            "population": 8080,
+            "color": "#d28652"
+        },
+        "Fendanwood": {
+            "population": 2723,
+            "color": "#ef673c"
+        },
+        "Beliria": {
+            "population": 3409,
+            "color": "#b73187"
+        },
+        "Fendorpeak": {
+            "population": 2766,
+            "color": "#4c8714"
+        },
+        "Marirhold": {
+            "population": 1539,
+            "color": "#555d88"
+        },
+        "Silorgorn": {
+            "population": 5803,
+            "color": "#9721ac"
+        },
+        "Silonia": {
+            "population": 6278,
+            "color": "#2cfbb0"
+        },
+        "Elendale": {
+            "population": 9329,
+            "color": "#55fc7b"
+        },
+        "Rivorbay": {
+            "population": 7585,
+            "color": "#f7e28c"
+        },
+        "Thalelbay": {
+            "population": 3465,
+            "color": "#659699"
+        },
+        "Marenia": {
+            "population": 2218,
+            "color": "#e4c60a"
+        },
+        "Belangorn": {
+            "population": 2630,
+            "color": "#24a61d"
+        },
+        "Marorgorn": {
+            "population": 3359,
+            "color": "#577f4f"
+        },
+        "Valanwood": {
+            "population": 8145,
+            "color": "#d5ece1"
+        },
+        "Thalirwood": {
+            "population": 7822,
+            "color": "#a1d31f"
+        },
+        "Rivilhold": {
+            "population": 1185,
+            "color": "#d3dad8"
+        },
+        "Silarbay": {
+            "population": 7897,
+            "color": "#e19f6b"
+        },
+        "Rivanheim": {
+            "population": 5195,
+            "color": "#e05bd3"
+        },
+        "Noralia": {
+            "population": 6153,
+            "color": "#29bcf5"
+        },
+        "Rivorpeak": {
+            "population": 2666,
+            "color": "#273eee"
+        },
+        "Sililmere": {
+            "population": 6875,
+            "color": "#4442c7"
+        },
+        "Elunwood": {
+            "population": 6389,
+            "color": "#006df0"
+        },
+        "Elunhold": {
+            "population": 8337,
+            "color": "#ebff09"
+        },
+        "Elunbay": {
+            "population": 8604,
+            "color": "#6109cc"
+        },
+        "Dorirwood": {
+            "population": 2598,
+            "color": "#fb1414"
+        },
+        "Doronhold": {
+            "population": 1197,
+            "color": "#946176"
+        },
+        "Elirdale": {
+            "population": 2061,
+            "color": "#a8b2b9"
+        },
+        "Rivilia": {
+            "population": 1868,
+            "color": "#f2807c"
+        },
+        "Elirgorn": {
+            "population": 7810,
+            "color": "#8ffbc9"
+        },
+        "Fendardale": {
+            "population": 4897,
+            "color": "#86760d"
+        },
+        "Fendenwood": {
+            "population": 2961,
+            "color": "#30f3ed"
+        },
+        "Silonhold": {
+            "population": 8173,
+            "color": "#24e12d"
+        },
+        "Norelwick": {
+            "population": 9990,
+            "color": "#e26b11"
+        },
+        "Thalenhold": {
+            "population": 2764,
+            "color": "#c5671f"
+        },
+        "Rivunia": {
+            "population": 7568,
+            "color": "#73e8d4"
+        },
+        "Mararheim": {
+            "population": 2222,
+            "color": "#b2eedc"
+        },
+        "Thalalwick": {
+            "population": 4567,
+            "color": "#393af3"
+        },
+        "Marunbay": {
+            "population": 6318,
+            "color": "#eaea65"
+        },
+        "Thalenheim": {
+            "population": 8370,
+            "color": "#ceaefc"
+        },
+        "Dorelhold": {
+            "population": 2910,
+            "color": "#6c7d4c"
+        },
+        "Maranbay": {
+            "population": 1449,
+            "color": "#e5ead8"
+        },
+        "Belania": {
+            "population": 5482,
+            "color": "#c87fe6"
+        },
+        "Dorelgorn": {
+            "population": 1924,
+            "color": "#4ec175"
+        },
+        "Silorhold": {
+            "population": 9466,
+            "color": "#597260"
+        },
+        "Rivandale": {
+            "population": 4437,
+            "color": "#253bcc"
+        },
+        "Norunhold": {
+            "population": 2742,
+            "color": "#14422c"
+        },
+        "Rivenmere": {
+            "population": 8266,
+            "color": "#774b95"
+        },
+        "Fendanmere": {
+            "population": 9004,
+            "color": "#a30fe7"
+        },
+        "Dororgorn": {
+            "population": 2926,
+            "color": "#7afea7"
+        },
+        "Thalungorn": {
+            "population": 3804,
+            "color": "#b674e0"
+        },
+        "Dorirmere": {
+            "population": 2454,
+            "color": "#a5d5ca"
+        }
+    },
+    "realms": {
+        "Noralmere": {
+            "provinces": [
+                "Noralmere"
+            ]
+        },
+        "Noronheim": {
+            "provinces": [
+                "Noronheim"
+            ]
+        },
+        "Silunwick": {
+            "provinces": [
+                "Silunwick"
+            ]
+        },
+        "Fendormere": {
+            "provinces": [
+                "Fendormere"
+            ]
+        },
+        "Rivalgorn": {
+            "provinces": [
+                "Rivalgorn"
+            ]
+        },
+        "Beleldale": {
+            "provinces": [
+                "Beleldale"
+            ]
+        },
+        "Belalmere": {
+            "provinces": [
+                "Belalmere"
+            ]
+        },
+        "Rivorwood": {
+            "provinces": [
+                "Rivorwood"
+            ]
+        },
+        "Norirheim": {
+            "provinces": [
+                "Norirheim"
+            ]
+        },
+        "Elanbay": {
+            "provinces": [
+                "Elanbay"
+            ]
+        },
+        "Sililheim": {
+            "provinces": [
+                "Sililheim"
+            ]
+        },
+        "Eloria": {
+            "provinces": [
+                "Eloria"
+            ]
+        },
+        "Fendelheim": {
+            "provinces": [
+                "Fendelheim"
+            ]
+        },
+        "Elarmere": {
+            "provinces": [
+                "Elarmere"
+            ]
+        },
+        "Belenbay": {
+            "provinces": [
+                "Belenbay"
+            ]
+        },
+        "Thalarpeak": {
+            "provinces": [
+                "Thalarpeak"
+            ]
+        },
+        "Thalilbay": {
+            "provinces": [
+                "Thalilbay"
+            ]
+        },
+        "Norenia": {
+            "provinces": [
+                "Norenia"
+            ]
+        },
+        "Fendenhold": {
+            "provinces": [
+                "Fendenhold"
+            ]
+        },
+        "Belonwood": {
+            "provinces": [
+                "Belonwood"
+            ]
+        },
+        "Belunmere": {
+            "provinces": [
+                "Belunmere"
+            ]
+        },
+        "Fendirwick": {
+            "provinces": [
+                "Fendirwick"
+            ]
+        },
+        "Noranwick": {
+            "provinces": [
+                "Noranwick"
+            ]
+        },
+        "Thalorbay": {
+            "provinces": [
+                "Thalorbay"
+            ]
+        },
+        "Dorungorn": {
+            "provinces": [
+                "Dorungorn"
+            ]
+        },
+        "Elelheim": {
+            "provinces": [
+                "Elelheim"
+            ]
+        },
+        "Belonpeak": {
+            "provinces": [
+                "Belonpeak"
+            ]
+        },
+        "Doraria": {
+            "provinces": [
+                "Doraria"
+            ]
+        },
+        "Silengorn": {
+            "provinces": [
+                "Silengorn"
+            ]
+        },
+        "Silarmere": {
+            "provinces": [
+                "Silarmere"
+            ]
+        },
+        "Elanpeak": {
+            "provinces": [
+                "Elanpeak"
+            ]
+        },
+        "Thalargorn": {
+            "provinces": [
+                "Thalargorn"
+            ]
+        },
+        "Norirhold": {
+            "provinces": [
+                "Norirhold"
+            ]
+        },
+        "Fendirpeak": {
+            "provinces": [
+                "Fendirpeak"
+            ]
+        },
+        "Elenwood": {
+            "provinces": [
+                "Elenwood"
+            ]
+        },
+        "Norondale": {
+            "provinces": [
+                "Norondale"
+            ]
+        },
+        "Elandale": {
+            "provinces": [
+                "Elandale"
+            ]
+        },
+        "Noralwick": {
+            "provinces": [
+                "Noralwick"
+            ]
+        },
+        "Nororbay": {
+            "provinces": [
+                "Nororbay"
+            ]
+        },
+        "Dorenbay": {
+            "provinces": [
+                "Dorenbay"
+            ]
+        },
+        "Rivelwick": {
+            "provinces": [
+                "Rivelwick"
+            ]
+        },
+        "Doranwick": {
+            "provinces": [
+                "Doranwick"
+            ]
+        },
+        "Dorilbay": {
+            "provinces": [
+                "Dorilbay"
+            ]
+        },
+        "Elalmere": {
+            "provinces": [
+                "Elalmere"
+            ]
+        },
+        "Valengorn": {
+            "provinces": [
+                "Valengorn"
+            ]
+        },
+        "Elorwick": {
+            "provinces": [
+                "Elorwick"
+            ]
+        },
+        "Elelwick": {
+            "provinces": [
+                "Elelwick"
+            ]
+        },
+        "Doronia": {
+            "provinces": [
+                "Doronia"
+            ]
+        },
+        "Norargorn": {
+            "provinces": [
+                "Norargorn"
+            ]
+        },
+        "Thalildale": {
+            "provinces": [
+                "Thalildale"
+            ]
+        },
+        "Noronbay": {
+            "provinces": [
+                "Noronbay"
+            ]
+        },
+        "Belenia": {
+            "provinces": [
+                "Belenia"
+            ]
+        },
+        "Norundale": {
+            "provinces": [
+                "Norundale"
+            ]
+        },
+        "Belonhold": {
+            "provinces": [
+                "Belonhold"
+            ]
+        },
+        "Marelhold": {
+            "provinces": [
+                "Marelhold"
+            ]
+        },
+        "Rivelbay": {
+            "provinces": [
+                "Rivelbay"
+            ]
+        },
+        "Thalirbay": {
+            "provinces": [
+                "Thalirbay"
+            ]
+        },
+        "Beloria": {
+            "provinces": [
+                "Beloria"
+            ]
+        },
+        "Norandale": {
+            "provinces": [
+                "Norandale"
+            ]
+        },
+        "Maralgorn": {
+            "provinces": [
+                "Maralgorn"
+            ]
+        },
+        "Siloria": {
+            "provinces": [
+                "Siloria"
+            ]
+        },
+        "Fendalwick": {
+            "provinces": [
+                "Fendalwick"
+            ]
+        },
+        "Elunmere": {
+            "provinces": [
+                "Elunmere"
+            ]
+        },
+        "Thalenmere": {
+            "provinces": [
+                "Thalenmere"
+            ]
+        },
+        "Thalondale": {
+            "provinces": [
+                "Thalondale"
+            ]
+        },
+        "Valildale": {
+            "provinces": [
+                "Valildale"
+            ]
+        },
+        "Valenpeak": {
+            "provinces": [
+                "Valenpeak"
+            ]
+        },
+        "Belilgorn": {
+            "provinces": [
+                "Belilgorn"
+            ]
+        },
+        "Elorpeak": {
+            "provinces": [
+                "Elorpeak"
+            ]
+        },
+        "Elondale": {
+            "provinces": [
+                "Elondale"
+            ]
+        },
+        "Rivalpeak": {
+            "provinces": [
+                "Rivalpeak"
+            ]
+        },
+        "Thalilia": {
+            "provinces": [
+                "Thalilia"
+            ]
+        },
+        "Thalirgorn": {
+            "provinces": [
+                "Thalirgorn"
+            ]
+        },
+        "Mararwick": {
+            "provinces": [
+                "Mararwick"
+            ]
+        },
+        "Dorania": {
+            "provinces": [
+                "Dorania"
+            ]
+        },
+        "Marirgorn": {
+            "provinces": [
+                "Marirgorn"
+            ]
+        },
+        "Valorpeak": {
+            "provinces": [
+                "Valorpeak"
+            ]
+        },
+        "Fendelwick": {
+            "provinces": [
+                "Fendelwick"
+            ]
+        },
+        "Rivonpeak": {
+            "provinces": [
+                "Rivonpeak"
+            ]
+        },
+        "Norilbay": {
+            "provinces": [
+                "Norilbay"
+            ]
+        },
+        "Dorilwick": {
+            "provinces": [
+                "Dorilwick"
+            ]
+        },
+        "Silundale": {
+            "provinces": [
+                "Silundale"
+            ]
+        },
+        "Rivelia": {
+            "provinces": [
+                "Rivelia"
+            ]
+        },
+        "Valaria": {
+            "provinces": [
+                "Valaria"
+            ]
+        },
+        "Doronpeak": {
+            "provinces": [
+                "Doronpeak"
+            ]
+        },
+        "Maralheim": {
+            "provinces": [
+                "Maralheim"
+            ]
+        },
+        "Fendelgorn": {
+            "provinces": [
+                "Fendelgorn"
+            ]
+        },
+        "Valelbay": {
+            "provinces": [
+                "Valelbay"
+            ]
+        },
+        "Norirdale": {
+            "provinces": [
+                "Norirdale"
+            ]
+        },
+        "Rivorgorn": {
+            "provinces": [
+                "Rivorgorn"
+            ]
+        },
+        "Silenia": {
+            "provinces": [
+                "Silenia"
+            ]
+        },
+        "Valardale": {
+            "provinces": [
+                "Valardale"
+            ]
+        },
+        "Rivildale": {
+            "provinces": [
+                "Rivildale"
+            ]
+        },
+        "Rivalbay": {
+            "provinces": [
+                "Rivalbay"
+            ]
+        },
+        "Thalelpeak": {
+            "provinces": [
+                "Thalelpeak"
+            ]
+        },
+        "Marirdale": {
+            "provinces": [
+                "Marirdale"
+            ]
+        },
+        "Valongorn": {
+            "provinces": [
+                "Valongorn"
+            ]
+        },
+        "Thalanheim": {
+            "provinces": [
+                "Thalanheim"
+            ]
+        },
+        "Valargorn": {
+            "provinces": [
+                "Valargorn"
+            ]
+        },
+        "Dorondale": {
+            "provinces": [
+                "Dorondale"
+            ]
+        },
+        "Thalunheim": {
+            "provinces": [
+                "Thalunheim"
+            ]
+        },
+        "Rivunwood": {
+            "provinces": [
+                "Rivunwood"
+            ]
+        },
+        "Valonia": {
+            "provinces": [
+                "Valonia"
+            ]
+        },
+        "Riviria": {
+            "provinces": [
+                "Riviria"
+            ]
+        },
+        "Elirpeak": {
+            "provinces": [
+                "Elirpeak"
+            ]
+        },
+        "Norilwick": {
+            "provinces": [
+                "Norilwick"
+            ]
+        },
+        "Silirwick": {
+            "provinces": [
+                "Silirwick"
+            ]
+        },
+        "Noralhold": {
+            "provinces": [
+                "Noralhold"
+            ]
+        },
+        "Maralia": {
+            "provinces": [
+                "Maralia"
+            ]
+        },
+        "Valanpeak": {
+            "provinces": [
+                "Valanpeak"
+            ]
+        },
+        "Elelpeak": {
+            "provinces": [
+                "Elelpeak"
+            ]
+        },
+        "Thalarhold": {
+            "provinces": [
+                "Thalarhold"
+            ]
+        },
+        "Silelwood": {
+            "provinces": [
+                "Silelwood"
+            ]
+        },
+        "Norordale": {
+            "provinces": [
+                "Norordale"
+            ]
+        },
+        "Silonwick": {
+            "provinces": [
+                "Silonwick"
+            ]
+        },
+        "Fendonheim": {
+            "provinces": [
+                "Fendonheim"
+            ]
+        },
+        "Rivungorn": {
+            "provinces": [
+                "Rivungorn"
+            ]
+        },
+        "Belenwood": {
+            "provinces": [
+                "Belenwood"
+            ]
+        },
+        "Dororheim": {
+            "provinces": [
+                "Dororheim"
+            ]
+        },
+        "Marundale": {
+            "provinces": [
+                "Marundale"
+            ]
+        },
+        "Sililwood": {
+            "provinces": [
+                "Sililwood"
+            ]
+        },
+        "Valirmere": {
+            "provinces": [
+                "Valirmere"
+            ]
+        },
+        "Fendondale": {
+            "provinces": [
+                "Fendondale"
+            ]
+        },
+        "Marorpeak": {
+            "provinces": [
+                "Marorpeak"
+            ]
+        },
+        "Belelpeak": {
+            "provinces": [
+                "Belelpeak"
+            ]
+        },
+        "Norilia": {
+            "provinces": [
+                "Norilia"
+            ]
+        },
+        "Doralheim": {
+            "provinces": [
+                "Doralheim"
+            ]
+        },
+        "Fendunwood": {
+            "provinces": [
+                "Fendunwood"
+            ]
+        },
+        "Fendunhold": {
+            "provinces": [
+                "Fendunhold"
+            ]
+        },
+        "Rivonwood": {
+            "provinces": [
+                "Rivonwood"
+            ]
+        },
+        "Dororbay": {
+            "provinces": [
+                "Dororbay"
+            ]
+        },
+        "Marangorn": {
+            "provinces": [
+                "Marangorn"
+            ]
+        },
+        "Mariria": {
+            "provinces": [
+                "Mariria"
+            ]
+        },
+        "Marandale": {
+            "provinces": [
+                "Marandale"
+            ]
+        },
+        "Silalpeak": {
+            "provinces": [
+                "Silalpeak"
+            ]
+        },
+        "Fendanwood": {
+            "provinces": [
+                "Fendanwood"
+            ]
+        },
+        "Beliria": {
+            "provinces": [
+                "Beliria"
+            ]
+        },
+        "Fendorpeak": {
+            "provinces": [
+                "Fendorpeak"
+            ]
+        },
+        "Marirhold": {
+            "provinces": [
+                "Marirhold"
+            ]
+        },
+        "Silorgorn": {
+            "provinces": [
+                "Silorgorn"
+            ]
+        },
+        "Silonia": {
+            "provinces": [
+                "Silonia"
+            ]
+        },
+        "Elendale": {
+            "provinces": [
+                "Elendale"
+            ]
+        },
+        "Rivorbay": {
+            "provinces": [
+                "Rivorbay"
+            ]
+        },
+        "Thalelbay": {
+            "provinces": [
+                "Thalelbay"
+            ]
+        },
+        "Marenia": {
+            "provinces": [
+                "Marenia"
+            ]
+        },
+        "Belangorn": {
+            "provinces": [
+                "Belangorn"
+            ]
+        },
+        "Marorgorn": {
+            "provinces": [
+                "Marorgorn"
+            ]
+        },
+        "Valanwood": {
+            "provinces": [
+                "Valanwood"
+            ]
+        },
+        "Thalirwood": {
+            "provinces": [
+                "Thalirwood"
+            ]
+        },
+        "Rivilhold": {
+            "provinces": [
+                "Rivilhold"
+            ]
+        },
+        "Silarbay": {
+            "provinces": [
+                "Silarbay"
+            ]
+        },
+        "Rivanheim": {
+            "provinces": [
+                "Rivanheim"
+            ]
+        },
+        "Noralia": {
+            "provinces": [
+                "Noralia"
+            ]
+        },
+        "Rivorpeak": {
+            "provinces": [
+                "Rivorpeak"
+            ]
+        },
+        "Sililmere": {
+            "provinces": [
+                "Sililmere"
+            ]
+        },
+        "Elunwood": {
+            "provinces": [
+                "Elunwood"
+            ]
+        },
+        "Elunhold": {
+            "provinces": [
+                "Elunhold"
+            ]
+        },
+        "Elunbay": {
+            "provinces": [
+                "Elunbay"
+            ]
+        },
+        "Dorirwood": {
+            "provinces": [
+                "Dorirwood"
+            ]
+        },
+        "Doronhold": {
+            "provinces": [
+                "Doronhold"
+            ]
+        },
+        "Elirdale": {
+            "provinces": [
+                "Elirdale"
+            ]
+        },
+        "Rivilia": {
+            "provinces": [
+                "Rivilia"
+            ]
+        },
+        "Elirgorn": {
+            "provinces": [
+                "Elirgorn"
+            ]
+        },
+        "Fendardale": {
+            "provinces": [
+                "Fendardale"
+            ]
+        },
+        "Fendenwood": {
+            "provinces": [
+                "Fendenwood"
+            ]
+        },
+        "Silonhold": {
+            "provinces": [
+                "Silonhold"
+            ]
+        },
+        "Norelwick": {
+            "provinces": [
+                "Norelwick"
+            ]
+        },
+        "Thalenhold": {
+            "provinces": [
+                "Thalenhold"
+            ]
+        },
+        "Rivunia": {
+            "provinces": [
+                "Rivunia"
+            ]
+        },
+        "Mararheim": {
+            "provinces": [
+                "Mararheim"
+            ]
+        },
+        "Thalalwick": {
+            "provinces": [
+                "Thalalwick"
+            ]
+        },
+        "Marunbay": {
+            "provinces": [
+                "Marunbay"
+            ]
+        },
+        "Thalenheim": {
+            "provinces": [
+                "Thalenheim"
+            ]
+        },
+        "Dorelhold": {
+            "provinces": [
+                "Dorelhold"
+            ]
+        },
+        "Maranbay": {
+            "provinces": [
+                "Maranbay"
+            ]
+        },
+        "Belania": {
+            "provinces": [
+                "Belania"
+            ]
+        },
+        "Dorelgorn": {
+            "provinces": [
+                "Dorelgorn"
+            ]
+        },
+        "Silorhold": {
+            "provinces": [
+                "Silorhold"
+            ]
+        },
+        "Rivandale": {
+            "provinces": [
+                "Rivandale"
+            ]
+        },
+        "Norunhold": {
+            "provinces": [
+                "Norunhold"
+            ]
+        },
+        "Rivenmere": {
+            "provinces": [
+                "Rivenmere"
+            ]
+        },
+        "Fendanmere": {
+            "provinces": [
+                "Fendanmere"
+            ]
+        },
+        "Dororgorn": {
+            "provinces": [
+                "Dororgorn"
+            ]
+        },
+        "Thalungorn": {
+            "provinces": [
+                "Thalungorn"
+            ]
+        },
+        "Dorirmere": {
+            "provinces": [
+                "Dorirmere"
+            ]
+        }
+    }
+}

@@ -21,7 +21,8 @@ class WorldMap:
 		self.selected_province = null
 		
 	func generate_provinces():
-		var provinces_data = utility.read_json_file("res://province_data.json")
+		var map_data = utility.read_json_file("res://map_data.json")
+		var provinces_data = map_data["provinces"]
 		for row in range(self.province_rows):
 			for col in range(self.province_cols):
 				@warning_ignore("integer_division")
