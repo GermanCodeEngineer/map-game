@@ -17,12 +17,11 @@ class Province:
 	var name: String
 	var population: int
 	var color: Color
-	var realm: Realm
 
 	@warning_ignore("shadowed_variable")
 	func _init(
 		map: WorldMap, row: int, col: int, position: Vector2, pointing_up: bool,
-		name: String, population: int, color: Color, realm: Realm
+		name: String, population: int, color: Color
 	):
 		self.map = map
 		self.node = Node2D.new()
@@ -34,7 +33,6 @@ class Province:
 		self.name = name
 		self.population = population
 		self.color = color
-		self.realm = realm
 	
 	# Graphic APIs
 	func setup():
@@ -70,6 +68,14 @@ class Province:
 		var is_selected = self == self.map.selected_province
 		tri.color = self.get_color(is_selected)
 		tri_border.default_color = Color.WHITE if is_selected else Color.TRANSPARENT
+
+	# Read-only Properties
+	func realm() -> Realm:
+		for realm in self.map.realms.values():
+			if self in realm.provines:
+				return realm
+		assert(false, "Province has no realm")
+		return null
 	
 	# Helpers
 	func get_color(is_selected: bool) -> Color:
