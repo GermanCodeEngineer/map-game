@@ -1,1 +1,4 @@
 res://window.tscn
+res://province.gd
+res://realm.gd
+res://map.gd

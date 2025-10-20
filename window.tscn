@@ -43,7 +43,7 @@ label_settings = SubResource("LabelSettings_srjdr")
 
 [node name="ProvincePopulation" type="Label" parent="PanelLayer/Panel/VBoxContainer"]
 layout_mode = 2
-text = "[PROVINCE NAME]"
+text = "[PROVINCE POPULATION]"
 label_settings = SubResource("LabelSettings_srjdr")
 
 [node name="MapArea" type="Control" parent="."]
