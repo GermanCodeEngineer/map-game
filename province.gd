@@ -21,8 +21,8 @@ class Province:
 
 	@warning_ignore("shadowed_variable")
 	func _init(
-		map: WorldMap, row: int, col: int, position: Vector2, pointing_up: bool,
-		name: String, population: int, color: Color, realm: Realm
+		parent: WorldMap, row: int, col: int, position: Vector2, pointing_up: bool,
+		name: String, population: int, color: Color,
 	):
 		self.map = map
 		self.node = Node2D.new()
@@ -67,14 +67,7 @@ class Province:
 	func update():
 		var tri = self.node.get_child(0)
 		var tri_border = self.node.get_child(1)
-		var is_selected = self == self.map.selected_province
-		tri.color = self.get_color(is_selected)
-		tri_border.default_color = Color.WHITE if is_selected else Color.TRANSPARENT
-	
-	# Helpers
-	func get_color(is_selected: bool) -> Color:
-		@warning_ignore("shadowed_variable")
-		var color = self.color
+		var is_selected = self == self.parent.selected_province
 		if is_selected:
 			return color.darkened(-0.5).clamp(Color.BLACK, Color.WHITE.darkened(0.3))
 		else:
